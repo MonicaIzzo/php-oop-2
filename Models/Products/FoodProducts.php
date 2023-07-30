@@ -19,7 +19,7 @@ class FoodProducts extends Products
     public function listIngredients()
     {
         $ingredients = implode(',', $this->ingredients);
-        return substr($ingredients, 0, -1);
+        return ($ingredients);
     }
 
     // INGREDIENTI

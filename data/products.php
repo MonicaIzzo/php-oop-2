@@ -13,10 +13,10 @@ $products = [
     // FOOD
     new FoodProducts(
         'Royal Canin Mini Adult',
-        'https://arcaplanet.vtexassets.com/arquivos/ids/243820/royal-canin-size-cane-mini-adult.jpg',
+        'https://arcaplanet.vtexassets.com/arquivos/ids/284621/Mini-Adult.jpg?v=1777144673',
         43.99,
         $categories['dog'],
-        ['prosciutto', 'riso'],
+        [' prosciutto', ' riso'],
         '2024-10-12'
     ),
     new FoodProducts(
@@ -24,7 +24,7 @@ $products = [
         'https://arcaplanet.vtexassets.com/arquivos/ids/245173/almo-nature-holistic-cane-adult-medium-pollo-e-riso.jpg',
         44.5,
         $categories['dog'],
-        ['manzo', 'cereali'],
+        [' manzo', ' cereali '],
         '2024-10-12'
     ),
     new FoodProducts(
@@ -32,7 +32,7 @@ $products = [
         'https://arcaplanet.vtexassets.com/arquivos/ids/245336/almo-daily-menu-cat-400-gr-vitello.jpg',
         34.898,
         $categories['cat'],
-        ['tonno', 'pollo', 'prosciutto'],
+        [' tonno', ' pollo', ' prosciutto'],
         '2024-10-12'
     ),
     new FoodProducts(
@@ -40,7 +40,7 @@ $products = [
         'https://arcaplanet.vtexassets.com/arquivos/ids/272714/tetra-guppy-mini-flakes.jpg',
         2.95,
         $categories['fish'],
-        ['molluschi', 'alghe'],
+        [' molluschi', ' alghe'],
         '2024-10-12'
     ),
 
@@ -59,8 +59,8 @@ $products = [
         'https://arcaplanet.vtexassets.com/arquivos/ids/272741/tetra-easycrystal-filterpack-250-300.jpg',
         23.66,
         $categories['fish'],
-        ['filtraggio meccanico', 'filtraggio biologico', 'filtraggio chimico:'],
-        'plastic'
+        '10cm x 10cm x 5cm',
+        'black'
     ),
 
     // TOYS
@@ -69,15 +69,15 @@ $products = [
         'https://arcaplanet.vtexassets.com/arquivos/ids/256599/kong-classic1.jpg',
         13.49,
         $categories['dog'],
-        ['gomma', 'plastica'],
-        'rosso'
+        'rosso',
+        'gomma',
     ),
     new ToyProducts(
         'Topini di peluche Trixie',
         'https://arcaplanet.vtexassets.com/arquivos/ids/223852/trixie-gatto-gioco-active-mouse-peluche.jpg',
         4.99,
         $categories['cat'],
-        ['peluche', 'plastica'],
-        'grigio'
+        'grigio',
+        'peluche'
     ),
 ];
