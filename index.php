@@ -9,6 +9,10 @@ Cane, Gatto, Uccelli, Pesci
 Una volta create le classi che descrivono il nostro sistema, instanziate prima tutte le categorie che ci serviranno, poi create alcuni prodotti di differenti categorie e stampateli nella pagina sotto forma di schede.
 -->
 
+<?php
+include_once __DIR__ . '/data/products.php';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -30,6 +34,9 @@ Una volta create le classi che descrivono il nostro sistema, instanziate prima t
 
 <body>
     <div class="container">
+        <?php foreach ($products as $product) : ?>
+            <li><?= $product->getName() ?></li>
+        <?php endforeach ?>
     </div>
 </body>
 

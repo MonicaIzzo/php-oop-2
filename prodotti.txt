@@ -14,7 +14,7 @@ ________________
 
 Almo Nature Cat Daily Lattina (Food, Cat)
 https://arcaplanet.vtexassets.com/arquivos/ids/245336/almo-daily-menu-cat-400-gr-vitello.jpg
-(8059149624884_3D_FRONTAL_MED_AD_CHICKEN_3KG_64293.webp)
+(almo-daily-menu-cat-400-gr-vitello.webp)
 
 ________________
 
@@ -26,28 +26,28 @@ https://arcaplanet.vtexassets.com/arquivos/ids/272714/tetra-guppy-mini-flakes.jp
 ________________
 
 
-Voliera Wilma in Legno (Food, Bird)
+Voliera Wilma in Legno (Kennel, Bird)
 https://arcaplanet.vtexassets.com/arquivos/ids/258384/voliera-wilma1.jpg
 (voliera-wilma1.webp)
 
 ________________
 
 
-Cartucce Filtranti per Filtro EasyCrystal (Food, Fish)
+Cartucce Filtranti per Filtro EasyCrystal (Kennel, Fish)
 https://arcaplanet.vtexassets.com/arquivos/ids/272741/tetra-easycrystal-filterpack-250-300.jpg
 (TETRA-EASYCRYSTAL-FILTERPACK-C-100.webp)
 
 ________________
 
 
-Kong Classic (Food, Dog)
+Kong Classic (Toys, Dog)
 https://arcaplanet.vtexassets.com/arquivos/ids/256599/kong-classic1.jpg
 (kong-classic1.webp)
 
 ________________
 
 
-Topini di peluche Trixie (Food, Dog)
+Topini di peluche Trixie (Toys, Dog)
 https://arcaplanet.vtexassets.com/arquivos/ids/223852/trixie-gatto-gioco-active-mouse-peluche.jpg
 (trixie-gatto-gioco-active-mouse-peluche.webp)
 */
